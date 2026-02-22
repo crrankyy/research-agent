@@ -209,7 +209,7 @@ pip install -r requirements.txt
 python app.py          # Runs on :5001
 
 # Frontend (in a new terminal)
-cd ../frontend
+cd frontend
 npm install
 cp .env.example .env
 npm run dev            # Runs on :5173
